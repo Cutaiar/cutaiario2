@@ -36,9 +36,10 @@ export const App = () => {
               <li>
                 <A href="mailto:dmcutaiar@gmail.com">dmcutaiar@gmail.com</A>
               </li>
-              {/* TODO: Fix resume link */}
               <li>
-                <A href="./resume-dillon-cutaiar-april-25.pdf">resume</A>
+                <A href="https://drive.google.com/file/d/1SA7xbLJLh18Iu7CuZ0hurafLkWWBjXMO/view?usp=sharing">
+                  resume
+                </A>
               </li>
             </ol>
           </div>
