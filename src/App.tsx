@@ -1,7 +1,7 @@
 function App() {
   return (
     <main className="bg-gray-100 flex flex-col items-center justify-center size-full font-anon">
-      <div className="space-y-4 container p-8 w-fit overflow-y-auto">
+      <div className="space-y-4 container p-8 w-fit overflow-y-auto animate-in fade-in ease-in-cubic duration-[700ms]">
         <h1 className="text-2xl font-bold">DILLON CUTAIAR</h1>
         <p className="max-w-prose text-justify">
           I'm a <strong>Software Engineer</strong> and <strong>Creative</strong>
