@@ -56,7 +56,7 @@ export const CheekySun = () => {
               className={`fixed ${positionClasses[pos]} group animate-in duration-[1s] zoom-in-0 fill-mode-backwards ${containerClasses[pos]}`}
             >
               <p
-                className={`text-6xl transition-transform duration-700 ease-out-expo ${sunPositionClasses[pos]}`}
+                className={`text-6xl transition-transform duration-700 ease-out-cubic ${sunPositionClasses[pos]}`}
               >
                 🌞
               </p>

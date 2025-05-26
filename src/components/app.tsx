@@ -9,17 +9,18 @@ export const App = () => {
         <h1 className="text-2xl font-bold">DILLON CUTAIAR</h1>
         <p className="max-w-prose text-justify">
           I'm a <strong>Software Engineer</strong> and <strong>Creative</strong>
-          . After studying Computer Science, Philosophy, and Mathematics at
-          Virginia Tech, I worked as a full stack engineer at Microsoft building
-          the future of CRM with a lovely team. After a career break spent
-          running, climbing, and skiing, I joined the world of startups with{" "}
+          . I started my career studying CS, Philosophy, and Math, focusing on
+          HCI and immersive experiences at Virginia Tech. Then, I started in
+          industry as a full stack engineer at Microsoft reimagining CRM. After
+          a break spent running, climbing, and skiing, I joined the world of
+          startups and Web3 via{" "}
           <A href="https://backdropbuild.com">Backdrop Build</A>. Here, I worked
           with <A href="https://github.com/nebolax">Alexey</A> on{" "}
           <A href={"https://github.com/smoothusdt/smooth-pwa"}>SmoothUSDT</A> -
           a PWA wallet for USDT on Tron. Now, I'm leading engineering at{" "}
           <A href={"https://mysorbet.xyz"}>Sorbet</A> where I build, maintain,
-          and deploy a wallet for freelancers designed for effortless global
-          payment.
+          and deploy a stablecoin wallet for freelancers with fiat deposit and
+          withdrawal in more that 150 countries.
         </p>
         <div className="flex flex-col justify-between sm:flex-row gap-4">
           <div className="space-y-2">
