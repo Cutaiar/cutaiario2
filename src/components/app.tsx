@@ -17,10 +17,11 @@ export const App = () => {
           <A href="https://backdropbuild.com">Backdrop Build</A>. Here, I worked
           with <A href="https://github.com/nebolax">Alexey</A> on{" "}
           <A href={"https://github.com/smoothusdt/smooth-pwa"}>SmoothUSDT</A> -
-          a PWA wallet for USDT on Tron. Now, I'm leading engineering at{" "}
-          <A href={"https://mysorbet.xyz"}>Sorbet</A> where I build, maintain,
-          and deploy a stablecoin wallet for freelancers with fiat deposit and
-          withdrawal in more that 150 countries.
+          a PWA wallet for USDT on Tron. For the next year, I led engineering at{" "}
+          <A href={"https://mysorbet.xyz"}>Sorbet</A> where I built, maintained,
+          and deployed a global stablecoin wallet for freelancers. Now, I'm
+          building product to reimagine what interacting with a computer looks
+          like at <A href={"https://wispr.ai"}>Wispr AI</A>.
         </p>
         <div className="flex flex-col justify-between sm:flex-row gap-4">
           <div className="space-y-2">
