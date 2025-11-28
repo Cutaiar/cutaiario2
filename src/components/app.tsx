@@ -21,7 +21,7 @@ export const App = () => {
           <A href={"https://mysorbet.xyz"}>Sorbet</A> where I built, maintained,
           and deployed a global stablecoin wallet for freelancers. Now, I'm
           building product to reimagine what interacting with a computer looks
-          like at <A href={"https://wispr.ai"}>Wispr AI</A>.
+          like at <A href={"https://wispr.ai"}>Wispr Flow</A>.
         </p>
         <div className="flex flex-col justify-between sm:flex-row gap-4">
           <div className="space-y-2">
