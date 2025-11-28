@@ -53,6 +53,11 @@ export const App = () => {
                 <A href="https://wisprflow.ai/">Flow, of course</A>
               </li>
               <li>
+                <A href="https://rebeat.onrender.com/">
+                  Thankful for music + running
+                </A>
+              </li>
+              <li>
                 <A href="https://mysorbet.xyz">Sorbet, a global wallet</A>
               </li>
               <li>
