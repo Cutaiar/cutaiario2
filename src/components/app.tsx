@@ -50,7 +50,10 @@ export const App = () => {
             <h2 className="text-xl font-bold">Recent tinkering</h2>
             <ol>
               <li>
-                <A href="https://mysorbet.xyz">Sorbet, of course</A>
+                <A href="https://wisprflow.ai/">Flow, of course</A>
+              </li>
+              <li>
+                <A href="https://mysorbet.xyz">Sorbet, a global wallet</A>
               </li>
               <li>
                 <A href="https://easing.cutaiar.io">Exploring easing curves</A>
