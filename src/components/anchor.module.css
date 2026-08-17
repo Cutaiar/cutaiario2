@@ -1,0 +1,27 @@
+.a:target {
+    animation: highlight 3.3s ease-out forwards;
+    border-radius: 4px;
+}
+
+@keyframes highlight {
+    0% {
+        background-color: transparent;
+        box-shadow: 0 0 0 0 transparent;
+    }
+    15% {
+        background-color: transparent;
+        box-shadow: 0 0 0 0 transparent;
+    }
+    24% {
+        background-color: rgb(253 186 116 / 0.55);
+        box-shadow: 0 0 0 2px rgb(253 186 116 / 0.55);
+    }
+    55% {
+        background-color: rgb(253 186 116 / 0.55);
+        box-shadow: 0 0 0 2px rgb(253 186 116 / 0.55);
+    }
+    100% {
+        background-color: transparent;
+        box-shadow: 0 0 0 2px transparent;
+    }
+}
