@@ -50,6 +50,9 @@ export const App = () => {
             <h2 className="text-xl font-bold">Recent tinkering</h2>
             <ol>
               <li>
+                <A href="https://hyperspace.cutaiar.io">hyperspace</A>
+              </li>
+              <li>
                 <A href="https://wisprflow.ai/">Flow, of course</A>
               </li>
               <li>
