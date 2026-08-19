@@ -35,7 +35,7 @@ const tinkering: Link[] = [
   { id: "flow", href: "https://wisprflow.ai/", label: "Flow, of course" },
   {
     id: "rebeat",
-    href: "https://rebeat.onrender.com/",
+    href: "https://rebeat.cutaiar.io/",
     label: "Thankful for music + running",
   },
   {
